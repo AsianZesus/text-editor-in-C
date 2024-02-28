@@ -1,1 +1,2 @@
-# text-editor-in-C
+# Text Editor in C
+
